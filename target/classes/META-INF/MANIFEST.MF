@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: backend-qualification
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HB16131
+Implementation-Vendor-Id: com.br.stoom.backendqualification
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/backend-qualification
+Created-By: Maven Integration for Eclipse
+
